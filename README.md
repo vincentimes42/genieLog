@@ -1,19 +1,18 @@
 Tp génie logiciel
 ----------------------------------------------------------
 
-    Notre Projet est une interface graphique qui donne à l'utilisateur le choix entre trois mini-jeu : le Simon, le jeu de mémoire des paires identiques et le jeu de l'oie.
+    Notre Projet est  un ensmble de mini-juex selectionnable via une interface graphique qui donne à l'utilisateur. Cela donne choix entre     trois mini-jeu : le Simon, le jeu de mémoire des paires identiques et le jeu de l'oie.
     Le projet a été développé sous Eclipse en java.
-
-Documentation
-----------------------------------------------------------
 
    Prérequis
 ----------------------------------------------------------
 
-    Pour ce programme il vous faudra utiliser Eclipse avec un logiciel java tiers qui a la version 1.8.
+    Pour ce programme il vous faudra utiliser 
 
-   Lancer le programme
+   Pour lancer le programme il faut au moins java 7 et gradle 2.0, Pour notre part on a réalisé le projet a vec eclypse 8 et le pluggin gradle.
 ----------------------------------------------------------
 
-    Pour lancer le programme, télécharger l'archive Jeu.zip qui contient le programme complet, l'interface de choix et le trois mini-jeux.
-    Pour exécuter le programme, importer le projet dans eclipse et réaliser un run de la classe ChoixJeux qui vous permettra de choisir parmi les trois mini-jeu.
+    Pour lancer le programme, vous pouvez essayer d'importer notre  projet Gradle  présent Jeugdrale.zip. , comme on à eu du mal à             determiner le  meilleur moyen de partager notre porjet gradle on a mis le projet dans une archive. 
+    si  l'importation et l'utilisation du projet gradle ne fonctionne nous avons partagé les fichiers java des minijeux dans l'archive         Jeu.zipé au quel cas il faut éxécuter (run) sur la classe ChoixJeux qui vous permettra de choisir parmi les trois mini-jeu.
+   
+    
