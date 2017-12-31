@@ -4,11 +4,11 @@ Tp génie logiciel
 Notre Projet est une interface graphique qui donne à l'utilisateur le choix entre trois mini-jeu : le Simon, le jeu de mémoire des paires identiques et le jeu de l'oie
 Le projet a été développé sous Eclipse en java.
 
-----------------------------------------------------------
-|                     Documentation                      |
+                     Documentation                     
 ----------------------------------------------------------
 
-------------------------Prérequis------------------------
+                        Prérequis
+----------------------------------------------------------
 
 Pour ce programme il vous faudra utiliser Eclipse avec un logiciel java qui a la version 1.8.
 
