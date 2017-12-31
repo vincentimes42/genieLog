@@ -7,12 +7,12 @@ Tp génie logiciel
 Documentation
 ----------------------------------------------------------
 
-    Prérequis
+   Prérequis
 ----------------------------------------------------------
 
     Pour ce programme il vous faudra utiliser Eclipse avec un logiciel java tiers qui a la version 1.8.
 
-     Lancer le programme
+   Lancer le programme
 ----------------------------------------------------------
 
     Pour lancer le programme, télécharger l'archive Jeu.zip qui contient le programme complet, l'interface de choix et le trois mini-jeux.
